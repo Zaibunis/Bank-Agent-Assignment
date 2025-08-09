@@ -72,7 +72,7 @@ Run the banking agent:
 ```bash
 uv run bank_agent.py
 ```
-# Example session
+## Example session
 
 ```bash
 What is your PIN? 234
@@ -93,4 +93,5 @@ The balance of the account is $100000
 
 ---
 
-# Made with ❤ by [Faria Mustaqim](https://github.com/Zaibunis)
+## Made with ❤ by [Faria Mustaqim](https://github.com/Zaibunis)
+
