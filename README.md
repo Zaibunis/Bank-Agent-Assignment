@@ -1,4 +1,4 @@
-# 🏦 Banking Agent with Gemini Integration
+# 🏦 Banking Agent with Gemini API Integration 
 
 This is a console-based **Banking Agent** built using the **OpenAI Agents SDK** with **Google Gemini API** integration.  
 It authenticates users via PIN, validates if queries are bank-related using **input guardrails**, and provides account balance information securely.
@@ -94,4 +94,5 @@ The balance of the account is $100000
 ---
 
 ## Made with ❤ by [Faria Mustaqim](https://github.com/Zaibunis)
+
 
